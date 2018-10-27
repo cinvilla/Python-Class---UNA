@@ -5,7 +5,7 @@ def test_division_entera ():
     print (myDiv)
     assert 3 == myDiv
 
-def test_division_enterII ():
+def test_division_entero ():
     num3 =  20
     num4 = 2
     myDiv2 = num3 // num4
