@@ -5,7 +5,7 @@ def test_division_entera ():
     print(mydiv)
     assert 9 == mydiv
 
-def test_division_entera ():
+def test_division_entera_falla ():
     num3 = 15
     num4 = 5
     mydiv_q5 = num3 // num4
