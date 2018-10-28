@@ -1,7 +1,4 @@
 # Python-Class---UNA
-Trabajo en Clase octubre 20 de 2018
-   setup.py file
-   tox.ini file
-   test_print_simple file 
-   test_división_entero file
-   'Class Summary - by cin' file
+Este repositorio contiene los archivos creados durante el trabajo en casa, los mismos están basados en las explicaciones del profesor durante la clase.
+
+También se han agregado archivos adicionales realizados con fines prácticos y de prueba para ver el comportamiento del python y así poder enterder más sobre este lenguaje de programación.
